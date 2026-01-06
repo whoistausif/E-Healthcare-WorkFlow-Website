@@ -2,7 +2,7 @@
 
 A **web-based healthcare management system** designed to digitize and streamline interactions between **Patients, Doctors, and Administrators**. This platform replaces traditional paper-based workflows with a secure, efficient, and centralized digital solution.
 
-🎓 **BCA Final Year Project (2024–2025)**  
+🎓 **BCA Final Year Project (2022–2025)**  
 🏫 Shri Shankaracharya Professional University, Bhilai (C.G.), India
 
 ---
