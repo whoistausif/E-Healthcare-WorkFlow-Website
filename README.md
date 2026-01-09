@@ -24,7 +24,7 @@ It improves:
 
 - **Mohammad Tausif**
 - **Gagandeep Chandrakar**
-- **Aniket Gujar**
+- **Aniket Gurjar**
 
 **Project Guide:**  
 Mrs. Shweta Dubey  
