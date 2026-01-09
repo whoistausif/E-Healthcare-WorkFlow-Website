@@ -28,7 +28,7 @@ It improves:
 
 **Project Guide:**  
 Mrs. Shweta Dubey  
-Assistant Professor, Department of Computer Application
+Assistant Professor, Department of Computer Application, Shri Shankaracharya Professional University
 
 ---
 
